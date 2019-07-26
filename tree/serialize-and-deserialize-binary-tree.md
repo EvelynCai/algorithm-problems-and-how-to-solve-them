@@ -2,7 +2,7 @@
 description: Tree
 ---
 
-# Serialize and Deserialize Binary Tree
+# 297. Serialize and Deserialize Binary Tree
 
 ### 1. [Description](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/)
 
@@ -163,5 +163,5 @@ public class Codec {
 ### 5. Extension
 
 * [145. Binary Tree Postorder Traversal](https://app.gitbook.com/@alittlebit/s/data-structures-and-algorithms-in-java/145.-binary-tree-postorder-traversal)
-* Serialize and Deserialize BST
+* [449. Serialize and Deserialize BST](https://app.gitbook.com/@alittlebit/s/algorithm-problems-and-how-to-solve-them/tree/449.-serialize-and-deserialize-bst)
 
