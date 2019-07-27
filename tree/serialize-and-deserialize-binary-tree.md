@@ -164,5 +164,4 @@ public class Codec {
 
 * [145. Binary Tree Postorder Traversal](https://app.gitbook.com/@alittlebit/s/data-structures-and-algorithms-in-java/145.-binary-tree-postorder-traversal)
 * [449. Serialize and Deserialize BST](https://app.gitbook.com/@alittlebit/s/algorithm-problems-and-how-to-solve-them/tree/449.-serialize-and-deserialize-bst)
-* 428. Serialize and Deserialize N-ary Tree
 
