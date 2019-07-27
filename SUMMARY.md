@@ -18,6 +18,7 @@
 * [199. Binary Tree Right Side View](tree/199.-binary-tree-right-side-view.md)
 * [449. Serialize and Deserialize BST](tree/449.-serialize-and-deserialize-bst.md)
 * [297. Serialize and Deserialize Binary Tree](tree/serialize-and-deserialize-binary-tree.md)
+* [428. Serialize and Deserialize N-ary Tree](tree/428.-serialize-and-deserialize-n-ary-tree.md)
 
 ## Games
 
