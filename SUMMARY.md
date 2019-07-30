@@ -40,6 +40,10 @@
 
 * [215. Kth Largest Element In Array](sort/215.-kth-largest-element-in-array.md)
 
+## Search
+
+* [240. Search a 2D Matrix II](search/240.-search-a-2d-matrix-ii.md)
+
 ## Others
 
 * [819. Most Common Word](others/819.-most-common-word.md)
