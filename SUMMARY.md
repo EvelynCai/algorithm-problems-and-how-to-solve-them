@@ -54,4 +54,5 @@
 * [605. Can Place Flowers](others/605.-can-place-flowers.md)
 * [8. String to Integer \(atoi\)](others/8.-string-to-integer-atoi.md)
 * [349. Intersection of Two Arrays](others/untitled.md)
+* [771. Jewels and Stones](others/771.-jewels-and-stones.md)
 
