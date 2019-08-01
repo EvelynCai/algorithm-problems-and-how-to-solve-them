@@ -2,6 +2,10 @@
 
 * [Preface](README.md)
 
+## LIST
+
+* [206. Reverse Linked List](list/206.-reverse-linked-list.md)
+
 ## Tree
 
 * [Lowest Common Ancestor of Tree Nodes](tree/lowest-common-ancestor-of-tree-nodes.md)
