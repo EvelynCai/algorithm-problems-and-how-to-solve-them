@@ -5,6 +5,8 @@
 ## LIST
 
 * [206. Reverse Linked List](list/206.-reverse-linked-list.md)
+* [21. Merge Two Sorted Lists](list/21.-merge-two-sorted-lists.md)
+* [141. Linked List Cycle](list/141.-linked-list-cycle.md)
 
 ## Tree
 
