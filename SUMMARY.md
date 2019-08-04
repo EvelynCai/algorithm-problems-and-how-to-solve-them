@@ -61,4 +61,5 @@
 * [8. String to Integer \(atoi\)](others/8.-string-to-integer-atoi.md)
 * [349. Intersection of Two Arrays](others/untitled.md)
 * [771. Jewels and Stones](others/771.-jewels-and-stones.md)
+* [89. Gray Code](others/89.-gray-code.md)
 
