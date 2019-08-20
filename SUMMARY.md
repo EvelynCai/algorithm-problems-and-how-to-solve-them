@@ -5,7 +5,7 @@
 ## Array
 
 * [169. Majority Element](array/169.-majority-element.md)
-* [Untitled](array/untitled.md)
+* [229. Majority Element II](array/untitled.md)
 
 ## LIST
 
