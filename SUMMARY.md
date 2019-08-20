@@ -2,6 +2,11 @@
 
 * [Preface](README.md)
 
+## Array
+
+* [169. Majority Element](array/169.-majority-element.md)
+* [Untitled](array/untitled.md)
+
 ## LIST
 
 * [206. Reverse Linked List](list/206.-reverse-linked-list.md)
