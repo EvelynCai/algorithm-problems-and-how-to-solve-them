@@ -5,6 +5,7 @@
 ## Array
 
 * [Overview](array/overview.md)
+* [27. Remove Element](array/27.-remove-element.md)
 * [169. Majority Element](array/169.-majority-element.md)
 * [229. Majority Element II](array/229.-majority-element-ii.md)
 
