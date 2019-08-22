@@ -4,6 +4,8 @@
 | :--- | :--- | :--- |
 | Addition |  |  |
 | Removal/Deduplication | 27. Remove Element | 2 pointers |
+|  | 26. Remove Duplicates from Sorted Arrays | 2 pointers |
+|  | 80. Remove Duplicates from Sorted Arrays II |  |
 | Iteration |  |  |
 | Searching |  |  |
 | Sorting |  |  |

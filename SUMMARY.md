@@ -6,6 +6,8 @@
 
 * [Overview](array/overview.md)
 * [27. Remove Element](array/27.-remove-element.md)
+* [26. Remove Duplicates from Sorted Array](array/26.-remove-duplicates-from-sorted-array.md)
+* [80. Remove Duplicates from Sorted Array II](array/80.-remove-duplicates-from-sorted-array-ii.md)
 * [169. Majority Element](array/169.-majority-element.md)
 * [229. Majority Element II](array/229.-majority-element-ii.md)
 
