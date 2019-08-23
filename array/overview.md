@@ -9,7 +9,7 @@
 | Iteration |  |  |
 | Searching |  |  |
 | Sorting |  |  |
-| Copy |  |  |
+| Copy | 1089. Duplicate Zeros | 2 pointers |
 | Majority | 169. Majority Element | Vote Algorithm |
 |  | 229. Majority Element II |  |
 | Rotation |  |  |
