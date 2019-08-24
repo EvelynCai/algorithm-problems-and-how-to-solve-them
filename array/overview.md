@@ -8,7 +8,7 @@
 |  | 80. Remove Duplicates from Sorted Arrays II | 2 pointers |
 | Iteration |  |  |
 | Searching |  |  |
-| Sorting |  |  |
+| Sorting | 88. Merge Sorted Array | Merge Sort |
 | Copy | 1089. Duplicate Zeros | 2 pointers |
 | Majority | 169. Majority Element | Vote Algorithm |
 |  | 229. Majority Element II |  |
