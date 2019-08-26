@@ -12,6 +12,7 @@
 * [229. Majority Element II](array/229.-majority-element-ii.md)
 * [1089. Duplicate Zeros](array/1089.-duplicate-zeros.md)
 * [88. Merge Sorted Array](array/88.-merge-sorted-array.md)
+* [977. Squares of a Sorted Array](array/977.-squares-of-a-sorted-array.md)
 
 ## LIST
 
