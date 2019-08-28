@@ -9,6 +9,7 @@
 | Iteration |  |  |
 | Searching | 977. Squares of a Sorted Array | Binary Search |
 | Sorting | 88. Merge Sorted Array | Merge Sort |
+|  | 75. Sort Colors | 2 poitners |
 | Copy | 1089. Duplicate Zeros | 2 pointers |
 | Majority | 169. Majority Element | Vote Algorithm |
 |  | 229. Majority Element II |  |
