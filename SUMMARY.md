@@ -14,6 +14,7 @@
 * [88. Merge Sorted Array](array/88.-merge-sorted-array.md)
 * [75. Sort Colors](array/75.-sort-colors.md)
 * [280. Wiggle Sort](array/280.-wiggle-sort.md)
+* [283. Move Zeroes](array/283.-move-zeroes.md)
 * [977. Squares of a Sorted Array](array/977.-squares-of-a-sorted-array.md)
 
 ## LIST

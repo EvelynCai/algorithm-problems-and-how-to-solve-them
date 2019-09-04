@@ -11,6 +11,7 @@
 | Sorting | 88. Merge Sorted Array | Merge Sort |
 |  | 75. Sort Colors | 2 pointers |
 |  | 280. Wiggle Sort |  |
+|  | 283. Move Zeroes | 2 pointers |
 | Copy | 1089. Duplicate Zeros | 2 pointers |
 | Majority | 169. Majority Element | Vote Algorithm |
 |  | 229. Majority Element II |  |
