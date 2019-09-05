@@ -12,6 +12,7 @@
 |  | 75. Sort Colors | 2 pointers |
 |  | 280. Wiggle Sort |  |
 |  | 283. Move Zeroes | 2 pointers |
+|  | 376. Wiggle Sequence | DP |
 | Copy | 1089. Duplicate Zeros | 2 pointers |
 | Majority | 169. Majority Element | Vote Algorithm |
 |  | 229. Majority Element II |  |
