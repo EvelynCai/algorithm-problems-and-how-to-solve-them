@@ -17,6 +17,7 @@
 * [283. Move Zeroes](array/283.-move-zeroes.md)
 * [376. Wiggle Subsequence](array/376.-wiggle-subsequence.md)
 * [217. Contains Duplicate](array/217.-contains-duplicate.md)
+* [219. Contains Duplicate II](array/219.-contains-duplicate-ii.md)
 * [977. Squares of a Sorted Array](array/977.-squares-of-a-sorted-array.md)
 * [509. Fibonacci Number](array/509.-fibonacci-number.md)
 
