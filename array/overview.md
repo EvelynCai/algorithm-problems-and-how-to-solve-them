@@ -8,6 +8,7 @@
 |  | 80. Remove Duplicates from Sorted Arrays II | 2 pointers |
 |  | 217. Contains Duplicate |  |
 |  | 219. Contains Duplicate II | Sliding Window |
+|  | 220. Contains Duplicate III |  |
 | Iteration |  |  |
 | Searching | 977. Squares of a Sorted Array | Binary Search |
 | Sorting | 88. Merge Sorted Array | Merge Sort |
