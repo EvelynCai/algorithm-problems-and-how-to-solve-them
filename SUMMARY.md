@@ -16,6 +16,7 @@
 * [280. Wiggle Sort](array/280.-wiggle-sort.md)
 * [283. Move Zeroes](array/283.-move-zeroes.md)
 * [376. Wiggle Subsequence](array/376.-wiggle-subsequence.md)
+* [41. First Missing Positive](array/41.-first-missing-positive.md)
 * [217. Contains Duplicate](array/217.-contains-duplicate.md)
 * [219. Contains Duplicate II](array/219.-contains-duplicate-ii.md)
 * [220. Contains Duplicate III](array/220.-contains-duplicate-iii.md)
