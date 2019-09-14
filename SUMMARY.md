@@ -10,6 +10,7 @@
 * [80. Remove Duplicates from Sorted Array II](array/80.-remove-duplicates-from-sorted-array-ii.md)
 * [169. Majority Element](array/169.-majority-element.md)
 * [229. Majority Element II](array/229.-majority-element-ii.md)
+* [189. Rotate Array](array/189.-rotate-array.md)
 * [1089. Duplicate Zeros](array/1089.-duplicate-zeros.md)
 * [88. Merge Sorted Array](array/88.-merge-sorted-array.md)
 * [75. Sort Colors](array/75.-sort-colors.md)

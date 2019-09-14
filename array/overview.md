@@ -20,7 +20,7 @@
 | Copy | 1089. Duplicate Zeros | 2 pointers |
 | Majority | 169. Majority Element | Vote Algorithm |
 |  | 229. Majority Element II |  |
-| Rotation |  |  |
+| Rotation | 189. Rotate Array | Reverse |
 | More Dimensions |  |  |
 | Others | 509. Fibonacci Number | DP |
 
