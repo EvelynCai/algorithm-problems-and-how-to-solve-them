@@ -1,6 +1,6 @@
 # Overview
 
-| Category | Index | Notes |
+| Category | Problem | Notes |
 | :--- | :--- | :--- |
 | Addition |  |  |
 | Removal/Deduplication | 27. Remove Element | 2 pointers |
