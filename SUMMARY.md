@@ -33,7 +33,6 @@
 * [141. Linked List Cycle](list/141.-linked-list-cycle.md)
 * [138. Copy List with Random Pointer](list/138.-copy-list-with-random-pointer.md)
 * [234. Palindrome Linked List](list/234.-palindrome-linked-list.md)
-* [Untitled](list/untitled.md)
 
 ## Tree
 
@@ -76,6 +75,10 @@
 ## Search
 
 * [240. Search a 2D Matrix II](search/240.-search-a-2d-matrix-ii.md)
+
+## Design
+
+* [348. Design Tic-Tac-Toe](design/348.-design-tic-tac-toe.md)
 
 ## Others
 
