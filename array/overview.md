@@ -16,7 +16,7 @@
 |  | 280. Wiggle Sort |  |
 |  | 283. Move Zeroes | 2 pointers |
 |  | 376. Wiggle Sequence | DP |
-|  | 41. First Missing Positive | Radix Sort |
+|  | 41. First Missing Positive |  |
 | Copy | 1089. Duplicate Zeros | 2 pointers |
 | Majority | 169. Majority Element | Vote Algorithm |
 |  | 229. Majority Element II |  |
