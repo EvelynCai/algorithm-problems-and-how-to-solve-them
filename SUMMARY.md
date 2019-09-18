@@ -80,6 +80,7 @@
 ## Design
 
 * [348. Design Tic-Tac-Toe](design/348.-design-tic-tac-toe.md)
+* [794. Valid Tic-Tac-Toe State](design/794.-valid-tic-tac-toe-state.md)
 
 ## Others
 
