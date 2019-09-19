@@ -6,6 +6,7 @@
 | Removal/Deduplication | 27. Remove Element | 2 pointers |
 |  | 26. Remove Duplicates from Sorted Arrays | 2 pointers |
 |  | 80. Remove Duplicates from Sorted Arrays II | 2 pointers |
+|  | 287. Find the Duplicate Number |  |
 |  | 217. Contains Duplicate |  |
 |  | 219. Contains Duplicate II | Sliding Window |
 |  | 220. Contains Duplicate III |  |
