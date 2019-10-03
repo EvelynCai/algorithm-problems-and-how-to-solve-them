@@ -5,6 +5,7 @@
 | Reverse | 206. Reverse Linked List |  |
 |  | 92. Reverse Linked List II |  |
 | De-duplicate | 83. Remove Duplicates from Sorted List |  |
+|  | 82. Remove Duplicates from Sorted List II |  |
 |  | 203. Remove Linked List Elements |  |
 | Merge | 21. Merge Two Sorted Lists |  |
 |  | 141. Linked List Cycle |  |
