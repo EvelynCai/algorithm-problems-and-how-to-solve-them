@@ -5,9 +5,10 @@
 | Reverse | 206. Reverse Linked List |  |
 |  | 92. Reverse Linked List II |  |
 |  | 61. Rotate List | Rotate |
-| De-duplicate | 83. Remove Duplicates from Sorted List |  |
+| Removal | 83. Remove Duplicates from Sorted List |  |
 |  | 82. Remove Duplicates from Sorted List II |  |
 |  | 203. Remove Linked List Elements |  |
+|  | 19. Remove Nth Node From End of List | One-pass |
 | Merge | 21. Merge Two Sorted Lists |  |
 |  | 141. Linked List Cycle |  |
 | Sort | 147. Insertion Sort List |  |
