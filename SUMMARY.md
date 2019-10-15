@@ -30,6 +30,7 @@
 * [Overview](list/overview.md)
 * [206. Reverse Linked List](list/206.-reverse-linked-list.md)
 * [92. Reverse Linked List II](list/92.-reverse-linked-list-ii.md)
+* [25. Reverse Nodes in k-Group](list/25.-reverse-nodes-in-k-group.md)
 * [61. Rotate List](list/61.-rotate-list.md)
 * [83. Remove Duplicates from Sorted List](list/83.-remove-duplicates-from-sorted-list.md)
 * [82. Remove Duplicates from Sorted List II](list/82.-remove-duplicates-from-sorted-list-ii.md)
