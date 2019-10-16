@@ -5,6 +5,7 @@
 | Reverse | 206. Reverse Linked List |  |
 |  | 92. Reverse Linked List II |  |
 |  | 25. Reverse Nodes in k-Group |  |
+|  | 24. Swap Nodes in Pairs |  |
 |  | 61. Rotate List | Rotate |
 | Removal | 83. Remove Duplicates from Sorted List |  |
 |  | 82. Remove Duplicates from Sorted List II |  |
