@@ -13,6 +13,7 @@
 |  | 19. Remove Nth Node From End of List | One-pass |
 | Merge | 21. Merge Two Sorted Lists |  |
 |  | 141. Linked List Cycle |  |
+|  | 328. Odd Even Linked List |  |
 | Sort | 147. Insertion Sort List |  |
 |  | 148. Sort List | Merge Sort |
 | Intersection | 160. Intersection of Two Linked Lists |  |
