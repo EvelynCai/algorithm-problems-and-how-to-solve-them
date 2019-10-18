@@ -38,6 +38,7 @@
 * [19. Remove Nth Node From End of List](list/19.-remove-nth-node-from-end-of-list.md)
 * [21. Merge Two Sorted Lists](list/21.-merge-two-sorted-lists.md)
 * [141. Linked List Cycle](list/141.-linked-list-cycle.md)
+* [142. Linked List Cycle II](list/142.-linked-list-cycle-ii.md)
 * [328. Odd Even Linked List](list/328.-odd-even-linked-list.md)
 * [147. Insertion Sort List](list/147.-insertion-sort-list.md)
 * [148. Sort List](list/148.-sort-list.md)
