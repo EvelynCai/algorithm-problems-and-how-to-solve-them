@@ -5,8 +5,6 @@
 ## Array
 
 * [Overview](array/overview.md)
-* [Merge Sort](array/merge-sort.md)
-* [Selection Sort](array/selection-sort.md)
 * [27. Remove Element](array/27.-remove-element.md)
 * [26. Remove Duplicates from Sorted Array](array/26.-remove-duplicates-from-sorted-array.md)
 * [80. Remove Duplicates from Sorted Array II](array/80.-remove-duplicates-from-sorted-array-ii.md)
@@ -84,6 +82,8 @@
 
 ## Sort
 
+* [Selection Sort](sort/selection-sort.md)
+* [Merge Sort](sort/merge-sort.md)
 * [215. Kth Largest Element In Array](sort/215.-kth-largest-element-in-array.md)
 
 ## Search
