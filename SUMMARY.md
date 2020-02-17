@@ -84,6 +84,7 @@
 
 * [Selection Sort](sort/selection-sort.md)
 * [Merge Sort](sort/merge-sort.md)
+* [Quick Sort](sort/quick-sort.md)
 * [215. Kth Largest Element In Array](sort/215.-kth-largest-element-in-array.md)
 
 ## Search

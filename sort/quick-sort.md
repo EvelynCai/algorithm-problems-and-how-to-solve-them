@@ -2,7 +2,7 @@
 description: Sort
 ---
 
-# Merge Sort
+# Quick Sort
 
 ## 1. WHAT
 
@@ -37,41 +37,63 @@ O\(nlogn\)
 
 O\(n\)
 
+* Breakpoint at recursion call, we use extra space for call stack to store element\#: n/2 + n/4 + n/8 + ... + 1 = O\(n\)
+
 ## 2. WHY
 
 Merge sort is a stable, comparison-based sorting algorithm.
 
 ## 3. HOW
 
-Assumptions to clarify: ascending or descending?
+```text
+public void quickSort(int[] nums) {
+    if (nums == null || nums.length <= 1) {
+        return;
+    }
+    
+    helper(nums, 0, nums.length - 1);
+}
 
-### 3.1 Merge Sorted Parts
+private void helper(int[] nums, int left, int right) {
+    if (left >= right) {
+        return;
+    }
+    
+    
+    int pivot = nums[right];
+    int pivotIndex = partition(nums, left, right, pivot);
+    
+    helper(nums, left, pivotIndex - 1);
+    helper(nums, pivotIndex + 1, right);
+}
 
-3.1.1 Merge 2 Sorted Arrays \[LeetCode 88 & LintCode 6\]
+private int partition(int[] nums, int left, int right, int pivot) {
+    int start = left - 1;
+    int end = right;
+    while (start <= end) {
+        while (nums[++start] < pivot);
+        
+        while (end > start && nums[--end] > pivot);
+        
+        if (start >= end) {
+            break;
+        } else {
+            swap(nums, start, end);
+        }
+    }
+    
+    swap(nums, start, right);
+    return start;
+}
 
-3.1.2 Merge K Sorted Arrays \[LintCode 486\]
+private void swap(int[] nums, int a, int b) {
+    int tmp = nums[a];
+    nums[a] = nums[b];
+    nums[b] = tmp;
+}
+```
 
-3.1.3 Merge 2 Sorted Lists \[LeetCode 21 & LintCode 165\]
-
-3.1.4 Merge K Sorted Lists \[LintCode 104\]
-
-### 3.2 MergeSort 
-
-3.2.1 MergeSort 2 arrays to 1 array \[LintCode 464\]
-
-3.2.2 MergeSort 2 arrays to 1 list \[LeetCode 912\]
-
-3.2.3 MergeSort 2 list to 1 list \[LeetCode 148\]
-
-### 3.3 Reorder Strings
-
-3.3.1 "a1b2c3d4e5" -&gt; "abcde12345"
-
-substring\(startIndex, endIndex\); endIndex excluded.
-
-3.3.2 "abcde12345" -&gt; "a1b2c3d4e5"
-
-
+### 3.1 Sort Colors\[LeetCode 75\]
 
 ## 
 
