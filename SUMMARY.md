@@ -92,6 +92,7 @@
 * [Overview](search/overview.md)
 * [Binary Search](search/binary-search.md)
 * [35. Search Insertion Position](search/35.-search-insertion-position.md)
+* [74. Search a 2D Matrix](search/74.-search-a-2d-matrix.md)
 * [240. Search a 2D Matrix II](search/240.-search-a-2d-matrix-ii.md)
 
 ## Design

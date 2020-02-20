@@ -37,8 +37,6 @@ O\(nlogn\)
 
 O\(n\)
 
-* Breakpoint at recursion call, we use extra space for call stack to store element\#: n/2 + n/4 + n/8 + ... + 1 = O\(n\)
-
 ## 2. WHY
 
 Merge sort is a stable, comparison-based sorting algorithm.
@@ -49,7 +47,7 @@ Assumptions to clarify: ascending or descending?
 
 ### 3.1 Merge Sorted Parts
 
-3.1.1 Merge 2 Sorted Arrays \[[LeetCode 88](https://app.gitbook.com/@alittlebit/s/algorithm-problems-and-how-to-solve-them/array/88.-merge-sorted-array) & LintCode 6\]
+3.1.1 Merge 2 Sorted Arrays \[LeetCode 88 & LintCode 6\]
 
 3.1.2 Merge K Sorted Arrays \[LintCode 486\]
 
@@ -63,7 +61,7 @@ Assumptions to clarify: ascending or descending?
 
 3.2.2 MergeSort 2 arrays to 1 list \[LeetCode 912\]
 
-3.2.3 MergeSort 2 list to 1 list [\[LeetCode 148\]](https://app.gitbook.com/@alittlebit/s/algorithm-problems-and-how-to-solve-them/list/148.-sort-list)
+3.2.3 MergeSort 2 list to 1 list \[LeetCode 148\]
 
 ### 3.3 Reorder Strings
 
