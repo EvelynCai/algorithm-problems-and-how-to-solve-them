@@ -46,6 +46,10 @@
 * [138. Copy List with Random Pointer](list/138.-copy-list-with-random-pointer.md)
 * [234. Palindrome Linked List](list/234.-palindrome-linked-list.md)
 
+## Stack
+
+* [641. Design Circular Deque](stack/641.-design-circular-deque.md)
+
 ## Tree
 
 * [Lowest Common Ancestor of Tree Nodes](tree/lowest-common-ancestor-of-tree-nodes.md)
@@ -64,22 +68,6 @@
 * [297. Serialize and Deserialize Binary Tree](tree/serialize-and-deserialize-binary-tree.md)
 * [428. Serialize and Deserialize N-ary Tree](tree/428.-serialize-and-deserialize-n-ary-tree.md)
 
-## Games
-
-* [Game Playing](games/game-playing.md)
-* [1025. Divisor Game](games/1025.-divisor-game.md)
-* [464. Can I Win](games/464.-can-i-win.md)
-* [292. Nim Game](games/292.-nim-game.md)
-
-## Sliding Windows
-
-* [Sliding Window](sliding-windows/sliding-window.md)
-* [3. Longest Substring Without Repeating Characters](sliding-windows/3.-longest-substring-without-repeating-characters.md)
-* [1004. Consecutive Ones III](sliding-windows/1004.-consecutive-ones-iii.md)
-* [209. Minimum Size Subarray Size](sliding-windows/209.-minimum-size-subarray-size.md)
-* [159. Longest Substring with At Most 2 Distinct Characters](sliding-windows/159.-longest-substring-with-at-most-2-distinct-characters.md)
-* [76. Minimum Window Substring](sliding-windows/76.-minimum-window-substring.md)
-
 ## Sort
 
 * [Selection Sort](sort/selection-sort.md)
@@ -95,6 +83,22 @@
 * [74. Search a 2D Matrix](search/74.-search-a-2d-matrix.md)
 * [240. Search a 2D Matrix II](search/240.-search-a-2d-matrix-ii.md)
 * [300. Longest Increasing Subsequence](search/300.-longest-increasing-subsequence.md)
+
+## Games
+
+* [Game Playing](games/game-playing.md)
+* [1025. Divisor Game](games/1025.-divisor-game.md)
+* [464. Can I Win](games/464.-can-i-win.md)
+* [292. Nim Game](games/292.-nim-game.md)
+
+## Sliding Windows
+
+* [Sliding Window](sliding-windows/sliding-window.md)
+* [3. Longest Substring Without Repeating Characters](sliding-windows/3.-longest-substring-without-repeating-characters.md)
+* [1004. Consecutive Ones III](sliding-windows/1004.-consecutive-ones-iii.md)
+* [209. Minimum Size Subarray Size](sliding-windows/209.-minimum-size-subarray-size.md)
+* [159. Longest Substring with At Most 2 Distinct Characters](sliding-windows/159.-longest-substring-with-at-most-2-distinct-characters.md)
+* [76. Minimum Window Substring](sliding-windows/76.-minimum-window-substring.md)
 
 ## Design
 
@@ -114,8 +118,4 @@
 * [349. Intersection of Two Arrays](others/untitled.md)
 * [771. Jewels and Stones](others/771.-jewels-and-stones.md)
 * [89. Gray Code](others/89.-gray-code.md)
-
-## Stack
-
-* [641. Design Circular Deque](stack/641.-design-circular-deque.md)
 
