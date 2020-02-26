@@ -25,9 +25,10 @@
 * [977. Squares of a Sorted Array](array/977.-squares-of-a-sorted-array.md)
 * [509. Fibonacci Number](array/509.-fibonacci-number.md)
 
-## LIST
+## LINKED LIST <a id="list"></a>
 
 * [Overview](list/overview.md)
+* [876. Middle of the Linked List](list/876.-middle-of-the-linked-list.md)
 * [206. Reverse Linked List](list/206.-reverse-linked-list.md)
 * [92. Reverse Linked List II](list/92.-reverse-linked-list-ii.md)
 * [25. Reverse Nodes in k-Group](list/25.-reverse-nodes-in-k-group.md)
