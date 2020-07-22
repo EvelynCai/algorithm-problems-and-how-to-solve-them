@@ -120,3 +120,7 @@
 * [771. Jewels and Stones](others/771.-jewels-and-stones.md)
 * [89. Gray Code](others/89.-gray-code.md)
 
+## Depth First Search
+
+* [Permutation](depth-first-search/permutation.md)
+
