@@ -1,8 +1,14 @@
+---
+description: Sort
+---
+
 # Selection Sort
 
 ### WHAT
 
-A in-place sorting algorithm based on comparison.
+A in-place sorting sorting algorithm based on comparison.
+
+**Nested Loops:**
 
 * iterate `array` from 0 to array.length - 1 and use an `index` to denote the current index, so`array[index]` divides the `array` into 2 parts:
   * \[0, index\): already sorted
@@ -58,7 +64,6 @@ because it takes constant auxiliary space.
 * pros:
   * minimum possible swap operations
   * applicable when auxiliary space is limited
-  * stable
 * cons:
   * quadratic time complexity
 

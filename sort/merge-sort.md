@@ -4,11 +4,11 @@ description: Sort
 
 # Merge Sort
 
-## 1. WHAT
+## WHAT
 
-### 1.1 Overview
+A stable sorting algorithm based on comparison.
 
-Merge sort is an algorithm that sorts an array in a giving order \(mostly ascending\) by:
+**Divide and conquer:**
 
 * splitting the input into 2 halves 
   * as middle as possible
@@ -20,9 +20,58 @@ Merge sort is an algorithm that sorts an array in a giving order \(mostly ascend
 
 ![Illustration - Merge Sort](../.gitbook/assets/screen-shot-2020-02-11-at-10.07.24-pm.png)
 
-### 1.2 Time Complexity
+### HOW
 
-O\(nlogn\)
+```text
+public int[] mergeSort(int[] array) {
+    if (array == null || array.length < 2) {
+        return array;
+    }
+    
+    sort(array, 0, array.length - 1);
+    return array;
+}
+
+private int[] sort(int[] array, int left, int right) {
+    if (left >= right) {
+        return new int[]{array[left]};
+    }
+    
+    int mid = left + (right - left) / 2;
+    int[] leftRes = sort(array, left, mid);
+    int[] rightRes = sort(array, mid + 1, right);
+    return merge(leftRes, rightRes);
+}
+
+private int[] merge(int[] arr1, int[] arr2) {
+    int p1 = 0;
+    int p2 = 0;
+    int[] res = new int[arr1.length + arr2.length];
+    int p = 0;
+    while (p1 < arr1.length && p2 < arr2.length) {
+        if (arr1[p1] < arr2[p2]) {
+            res[p++] = arr1[p1++];
+        } else {
+            res[p++] = arr2[p2++];
+        }
+    }
+    
+    while (p1 < arr1.length) {
+        res[p++] = arr1[p1++];
+    }
+    
+    while (p2 < arr2.length) {
+        res[p++] = arr2[p2++];
+    }
+    
+    return res;
+}
+```
+
+{% hint style="info" %}
+**Time Complexity: O\(nlogn\)**
+
+because
 
 * split: 
   * since elements in arrays are randomly accessible, we could find the mid index in O\(1\) 
@@ -33,45 +82,37 @@ O\(nlogn\)
   * it takes log\(n\) rounds merging from one element in each subarray to an entirely sorted array
   * in total, merging takes O\(nlogn\) time
 
-### 1.3 Space Complexity
+**Space Complexity: O\(n\)**
 
-O\(n\)
+because breakpoint at recursion call, we use extra space for call stack to store element\#: n/2 + n/4 + n/8 + ... + 1 = O\(n\)
+{% endhint %}
 
-* Breakpoint at recursion call, we use extra space for call stack to store element\#: n/2 + n/4 + n/8 + ... + 1 = O\(n\)
+### WHERE
 
-## 2. WHY
+Assumption: ascending or descending?
 
-Merge sort is a stable, comparison-based sorting algorithm.
+Practice:
 
-## 3. HOW
+#### Merge Sorted Parts
 
-Assumptions to clarify: ascending or descending?
+* Merge 2 Sorted Arrays \[[LeetCode 88](https://app.gitbook.com/@alittlebit/s/algorithm-problems-and-how-to-solve-them/array/88.-merge-sorted-array) & LintCode 6\]
+* Merge K Sorted Arrays \[LintCode 486\]
+* Merge 2 Sorted Lists \[LeetCode 21 & LintCode 165\]
+* Merge K Sorted Lists \[LintCode 104\]
 
-### 3.1 Merge Sorted Parts
+#### MergeSort 
 
-3.1.1 Merge 2 Sorted Arrays \[[LeetCode 88](https://app.gitbook.com/@alittlebit/s/algorithm-problems-and-how-to-solve-them/array/88.-merge-sorted-array) & LintCode 6\]
+* MergeSort 2 arrays to 1 array \[LintCode 464\]
+* MergeSort 2 arrays to 1 list \[LeetCode 912\]
+* MergeSort 2 list to 1 list [\[LeetCode 148\]](https://app.gitbook.com/@alittlebit/s/algorithm-problems-and-how-to-solve-them/list/148.-sort-list)
 
-3.1.2 Merge K Sorted Arrays \[LintCode 486\]
+#### Reorder Strings
 
-3.1.3 Merge 2 Sorted Lists \[LeetCode 21 & LintCode 165\]
-
-3.1.4 Merge K Sorted Lists \[LintCode 104\]
-
-### 3.2 MergeSort 
-
-3.2.1 MergeSort 2 arrays to 1 array \[LintCode 464\]
-
-3.2.2 MergeSort 2 arrays to 1 list \[LeetCode 912\]
-
-3.2.3 MergeSort 2 list to 1 list [\[LeetCode 148\]](https://app.gitbook.com/@alittlebit/s/algorithm-problems-and-how-to-solve-them/list/148.-sort-list)
-
-### 3.3 Reorder Strings
-
-3.3.1 "a1b2c3d4e5" -&gt; "abcde12345"
+* "a1b2c3d4e5" -&gt; "abcde12345"
 
 substring\(startIndex, endIndex\); endIndex excluded.
 
-3.3.2 "abcde12345" -&gt; "a1b2c3d4e5"
+*  "abcde12345" -&gt; "a1b2c3d4e5"
 
 
 
