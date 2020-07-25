@@ -177,7 +177,7 @@ private void swap(int[] nums, int a, int b) {
 
 Extension
 
-* Sort Colors\[LeetCode 75\]
+* [Sort Colors\[LeetCode 75\]](https://app.gitbook.com/@alittlebit/s/algorithm-problems-and-how-to-solve-them/array/75.-sort-colors)
 
 
 
