@@ -4,41 +4,85 @@ description: Sort
 
 # Quick Sort
 
-## 1. WHAT
+### WHAT
 
-### 1.1 Overview
+An unstable sorting algorithm based on comparison.
 
-Quick sort is an algorithm that sorts an array in a giving order \(mostly ascending\) by:
+**Principle: Partition**
 
-* partitioning the array with a selected pivot where
+* selecting a pivot to partition the array so that
   * all the elements `< pivot` are on its left
   * all the elements `> pivot` are on its right 
-* swapping the pivot to the middle
+* swapping the pivot to the exact position
 * quickSorting the left part until it contains 1 element ONLY
 * quickSorting the right part until it contains 1 element ONLY
 
-### 1.2 Time Complexity
+### HOW
 
-Time complexity depends on how to pick the `pivot`:
+```text
+public int[] quickSort(int[] array) {
+    if (array == null || array.length <= 1) {
+        return array;
+    }
+    
+    partition(array, 0, array.length - 1);
+    return array;
+}
 
-* On average, we could assume the `pivot` always divide the array into 2 parts with similar amount of elements. So we recurse `logn` rounds in total, while every round we have to iterate all of the n elements to partition.
-* In the worst case, we always pick the largest/smallest element `pivot`, which makes all other elements add on one side. So we recurse `n` times in total, while every round we have to iterate all of the n elements to partition.
+private void partition(int[] array, int left, int right) {
+    if (left >= right) {
+        return;
+    }
+    
+    int start = left;
+    int end = right;
+    int pivot = array[left + (right - left) / 2];
+    while (start <= end) {
+        while (start <= end && array[start] < pivot) {
+            start++;
+        }
+        
+        while (start <= end && array[end] > pivot) {
+            end--;
+        }
+        
+        if (start <= end) {
+            swap(array, start++, end--);
+        }
+    }
+    
+    partition(array, left, end);
+    partition(array, start, right);
+}
+
+private void swap(int[] array, int left, int right) {
+    int tmp = array[left];
+    array[left] = array[right];
+    array[right] = tmp;
+}
+```
+
+{% hint style="info" %}
+Time complexity: depends on how ideal  is the `pivot`
+
 * Average: O\(nlogn\)
-* Worst: O\(n ^ 2\)
 
-### 1.3 Space Complexity
+  we could assume the `pivot` always divide the array into 2 parts with similar amount of elements. So we recurse `logn` rounds in total, while every round we have to iterate all of the n elements to partition.
 
-O\(1\)
+* Worst case: O\(n ^ 2\)
 
-No extra space is used because we are mainly swapping elements within input array.
+  we always pick the largest/smallest element `pivot`, which makes all other elements add on one side. So we recurse `n` times in total, while every round we have to iterate all of the n elements to partition.
 
-## 2. WHY
+Space complexity: O\(1\)
 
-Quick sort is a unstable, comparison-based sorting algorithm.
+because no extra space is used because we are mainly swapping elements within input array.
+{% endhint %}
 
-## 3. HOW
+### WHERE
 
-### 3.1 Partition By RightMost Index
+Practice
+
+* Partition By RightMost Index
 
 ```text
 public void quickSort(int[] nums) {
@@ -131,18 +175,9 @@ private void swap(int[] nums, int a, int b) {
 }
 ```
 
-### 3.2 Partition By Mid Index of the Array
+Extension
 
-```text
-private void partitionByMid(int[] nums, int left, int right) {
-}
-```
-
-### [3.3 Sort Colors\[LeetCode 75\]](https://app.gitbook.com/@alittlebit/s/algorithm-problems-and-how-to-solve-them/array/75.-sort-colors)
-
-## 
-
-
+* Sort Colors\[LeetCode 75\]
 
 
 

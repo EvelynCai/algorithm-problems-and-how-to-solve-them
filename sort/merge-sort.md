@@ -8,7 +8,7 @@ description: Sort
 
 A stable sorting algorithm based on comparison.
 
-**Divide and conquer:**
+**Principle: Divide and conquer**
 
 * splitting the input into 2 halves 
   * as middle as possible
