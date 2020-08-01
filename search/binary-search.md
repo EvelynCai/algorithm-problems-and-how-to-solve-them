@@ -224,6 +224,39 @@ public int[] kClosest(int[] array, int target, int k) {
 **binary search in unknown sized sorted array**
 
 ```text
+public int search(Dictionary dict, int target) {
+    // Write your solution here
+    if (target == 0) {
+      Integer res = dict.get(0);
+      if (res == null) {
+        return -1;
+      } 
+    }
 
+    int n = 1;
+    while (dict.get(n) != null) {
+      n *= 2;
+    }
+
+    return binarySearch(dict, target, n);
+}
+
+private int binarySearch(Dictionary dict, int target, int n) {
+    int left = 0;
+    int right = n;
+    while (left <= right) {
+      int mid = left + (right - left) / 2;
+      Integer tmp = dict.get(mid);
+      if (tmp == null || tmp > target) {
+        right = mid - 1;
+      } else if (tmp == target) {
+        return mid;
+      } else {
+        left = mid + 1;
+      } 
+    }
+
+    return -1;
+}
 ```
 
