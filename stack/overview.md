@@ -59,3 +59,65 @@ public class MyQueue {
 }
 ```
 
+Implement Selection Sort with 2 Stacks
+
+Implement min\(\) with 2 Stacks
+
+```text
+public class Solution {
+  class Pair {
+    int minValue;
+    int index;
+    Pair(int minValue, int index) {
+      this.minValue = minValue;
+      this.index = index;
+    }
+  }
+
+  Stack<Integer> nums;
+  Stack<Pair> mins;
+  public Solution() {
+    nums = new Stack<>();
+    mins = new Stack<>();
+  }
+  
+  public int pop() {
+    if (nums.isEmpty()) {
+      return -1;
+    }
+
+    int tmp = nums.peek();
+    Pair p = mins.peek();
+    if (tmp == p.minValue && nums.size() <= p.index) {
+      mins.pop();
+    }
+    return nums.pop();
+  }
+  
+  public void push(int element) {
+    nums.push(element);
+
+    if (mins.isEmpty() || element < min()) {
+      mins.push(new Pair(element, nums.size()));
+    }
+  }
+  
+  public int top() {
+    if (nums.isEmpty()) {
+      return -1;
+    }
+
+    return nums.peek();
+  }
+  
+  public int min() {
+    if (nums.isEmpty()) {
+      return -1;
+    }
+    
+    Pair p = mins.peek();
+    return p.minValue;
+  }
+}
+```
+
