@@ -75,7 +75,7 @@
 * [Selection Sort](sort/selection-sort.md)
 * [Merge Sort](sort/merge-sort.md)
 * [Quick Sort](sort/quick-sort.md)
-* [Selection Sort with 2 Stacks](sort/selection-sort-with-2-stacks.md)
+* [Sort with 2 Stacks](sort/selection-sort-with-2-stacks.md)
 * [215. Kth Largest Element In Array](sort/215.-kth-largest-element-in-array.md)
 
 ## Search

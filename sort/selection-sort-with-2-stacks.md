@@ -2,7 +2,7 @@
 description: 'Sort, Stack'
 ---
 
-# Selection Sort with 2 Stacks
+# Sort with 2 Stacks
 
 ### 1. Description
 
