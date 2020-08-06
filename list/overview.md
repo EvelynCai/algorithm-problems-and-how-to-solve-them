@@ -1,4 +1,41 @@
+---
+description: LinkedList
+---
+
 # Overview
+
+### WHAT
+
+#### Concept
+
+#### Mistakes
+
+1. Check NULL before dereference a node to avoid Null Pointer Exception, e.g.
+
+```text
+if (node != null) {
+    System.out.println(node.value);
+    node = node.next;
+}
+```
+
+    2. Don't lose track of the head pointer,
+
+e.g. Reverse the following Linked List:
+
+Node1 -&gt; Node2 -&gt; Node3 -&gt; Node4 -&gt; NULL
+
+Node1 &lt;- Node2      Node3 -&gt; Node4 -&gt; NULL
+
+lose the head pointer to continue with Node3
+
+### WHY
+
+Time Complexity
+
+### WHEN
+
+
 
 | Category | Problem | Notes |
 | :--- | :--- | :--- |
