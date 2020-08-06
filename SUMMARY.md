@@ -25,6 +25,11 @@
 * [977. Squares of a Sorted Array](array/977.-squares-of-a-sorted-array.md)
 * [509. Fibonacci Number](array/509.-fibonacci-number.md)
 
+## Stack
+
+* [Overview](stack/overview.md)
+* [641. Design Circular Deque](stack/641.-design-circular-deque.md)
+
 ## LINKED LIST <a id="list"></a>
 
 * [Overview](list/overview.md)
@@ -46,11 +51,6 @@
 * [160. Intersection of Two Linked Lists](list/160.-intersection-of-two-linked-lists.md)
 * [138. Copy List with Random Pointer](list/138.-copy-list-with-random-pointer.md)
 * [234. Palindrome Linked List](list/234.-palindrome-linked-list.md)
-
-## Stack
-
-* [Overview](stack/overview.md)
-* [641. Design Circular Deque](stack/641.-design-circular-deque.md)
 
 ## Tree
 
@@ -87,6 +87,10 @@
 * [240. Search a 2D Matrix II](search/240.-search-a-2d-matrix-ii.md)
 * [300. Longest Increasing Subsequence](search/300.-longest-increasing-subsequence.md)
 
+## Depth First Search
+
+* [Permutation](depth-first-search/permutation.md)
+
 ## Games
 
 * [Game Playing](games/game-playing.md)
@@ -121,10 +125,6 @@
 * [349. Intersection of Two Arrays](others/untitled.md)
 * [771. Jewels and Stones](others/771.-jewels-and-stones.md)
 * [89. Gray Code](others/89.-gray-code.md)
-
-## Depth First Search
-
-* [Permutation](depth-first-search/permutation.md)
 
 ## Recursion
 
