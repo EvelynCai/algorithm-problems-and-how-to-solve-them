@@ -28,6 +28,7 @@
 ## Stack
 
 * [Overview](stack/overview.md)
+* [232. Implement Queues using Stacks](stack/232.-implement-queues-using-stacks.md)
 * [641. Design Circular Deque](stack/641.-design-circular-deque.md)
 
 ## LINKED LIST <a id="list"></a>
