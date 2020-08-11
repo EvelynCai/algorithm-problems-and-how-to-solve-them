@@ -53,6 +53,7 @@
 * [138. Copy List with Random Pointer](list/138.-copy-list-with-random-pointer.md)
 * [234. Palindrome Linked List](list/234.-palindrome-linked-list.md)
 * [86. Partition List](list/partition-linked-list.md)
+* [143. Reorder List](list/143.-reorder-list.md)
 
 ## Tree
 

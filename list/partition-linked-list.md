@@ -17,6 +17,8 @@ Input: head = 1->4->3->2->5->2, x = 3
 Output: 1->2->2->4->3->5
 ```
 
+### 
+
 ### 2. Solution
 
 To partition the list based on the target, we want to split the entire list into 2 halves:
@@ -44,6 +46,8 @@ where n represents the amount of list nodes because of the iteration.
 
 since we use constant extra space during the iteration.
 {% endhint %}
+
+### 
 
 ### 3. JAVA Implementation
 
@@ -73,6 +77,8 @@ public ListNode partition(ListNode head, int target) {
     return dummySmall.next;
 }
 ```
+
+### 
 
 ### 4. Comments
 

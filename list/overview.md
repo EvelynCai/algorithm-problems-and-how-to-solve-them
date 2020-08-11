@@ -31,7 +31,7 @@ lose the head pointer to continue with Node3
 
     3. **Keep track of  `tail` pointer could make appending easier**
 
-    4. **Remember to avoid cycles!**
+    4. **Avoid cycles!**
 
 e.g. break the previous `next` pointer after re-organizing, e.g. partition linked list
 
@@ -40,6 +40,14 @@ e.g. break the previous `next` pointer after re-organizing, e.g. partition linke
 Time Complexity
 
 ### WHEN
+
+### HOW
+
+Basic Operations
+
+* insert in a sorted linked list
+
+
 
 | Category | Problem | Notes |
 | :--- | :--- | :--- |
