@@ -10,7 +10,7 @@ description: LinkedList
 
 #### Mistakes
 
-1. Check NULL before dereference a node to avoid Null Pointer Exception, e.g.
+1. **Check `NULL` before dereference a node to avoid Null Pointer Exception**, e.g.
 
 ```text
 if (node != null) {
@@ -19,7 +19,7 @@ if (node != null) {
 }
 ```
 
-    2. Don't lose track of the head pointer,
+    2. **Don't lose track of the `head` pointer,**
 
 e.g. Reverse the following Linked List:
 
@@ -29,13 +29,17 @@ Node1 &lt;- Node2      Node3 -&gt; Node4 -&gt; NULL
 
 lose the head pointer to continue with Node3
 
+    3. **Keep track of  `tail` pointer could make appending easier**
+
+    4. **Remember to avoid cycles!**
+
+e.g. break the previous `next` pointer after re-organizing, e.g. partition linked list
+
 ### WHY
 
 Time Complexity
 
 ### WHEN
-
-
 
 | Category | Problem | Notes |
 | :--- | :--- | :--- |

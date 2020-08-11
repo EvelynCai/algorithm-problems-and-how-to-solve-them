@@ -52,7 +52,7 @@
 * [160. Intersection of Two Linked Lists](list/160.-intersection-of-two-linked-lists.md)
 * [138. Copy List with Random Pointer](list/138.-copy-list-with-random-pointer.md)
 * [234. Palindrome Linked List](list/234.-palindrome-linked-list.md)
-* [Partition Linked List](list/partition-linked-list.md)
+* [86. Partition List](list/partition-linked-list.md)
 
 ## Tree
 
