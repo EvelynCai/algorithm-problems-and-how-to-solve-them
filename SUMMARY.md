@@ -78,6 +78,7 @@
 * [Selection Sort](sort/selection-sort.md)
 * [Merge Sort](sort/merge-sort.md)
 * [Quick Sort](sort/quick-sort.md)
+* [Quick Select](sort/quick-select.md)
 * [Sort with 2 Stacks](sort/selection-sort-with-2-stacks.md)
 * [215. Kth Largest Element In Array](sort/215.-kth-largest-element-in-array.md)
 
@@ -134,4 +135,8 @@
 * [Overview](recursion/overview.md)
 * [509. Fabonacci Number](recursion/509.-fabonacci-number.md)
 * [50. Pow\(x, n\)](recursion/50.-pow-x-n.md)
+
+## Heap
+
+* [Overview](heap/overview.md)
 
