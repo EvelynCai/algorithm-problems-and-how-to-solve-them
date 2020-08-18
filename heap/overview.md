@@ -68,5 +68,5 @@ PriorityQueue
 
 ### WHEN
 
-* 215. Kth largest element in an array
+* [215. Kth largest element in an array](https://app.gitbook.com/@alittlebit/s/algorithm-problems-and-how-to-solve-them/sort/215.-kth-largest-element-in-array)
 
