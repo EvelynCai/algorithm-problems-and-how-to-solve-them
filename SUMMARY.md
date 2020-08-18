@@ -101,6 +101,7 @@
 ## Heap
 
 * [Overview](heap/overview.md)
+* [Heapify](heap/heapify.md)
 
 ## Games
 
