@@ -29,6 +29,7 @@
 
 * [Overview](stack/overview.md)
 * [232. Implement Queues using Stacks](stack/232.-implement-queues-using-stacks.md)
+* [155. Min Stack](stack/155.-min-stack.md)
 * [641. Design Circular Deque](stack/641.-design-circular-deque.md)
 
 ## LINKED LIST <a id="list"></a>
@@ -79,6 +80,7 @@
 * [Merge Sort](sort/merge-sort.md)
 * [Quick Sort](sort/quick-sort.md)
 * [Quick Select](sort/quick-select.md)
+* [HeapSort](sort/heapsort.md)
 * [Sort with 2 Stacks](sort/selection-sort-with-2-stacks.md)
 * [215. Kth Largest Element In Array](sort/215.-kth-largest-element-in-array.md)
 
@@ -86,14 +88,19 @@
 
 * [Overview](search/overview.md)
 * [Binary Search](search/binary-search.md)
+* [BFS](search/bfs.md)
+* [785. Is Graph Bipartite?](search/785.-is-graph-bipartite.md)
+* [DFS](search/dfs.md)
 * [35. Search Insertion Position](search/35.-search-insertion-position.md)
 * [74. Search a 2D Matrix](search/74.-search-a-2d-matrix.md)
+* [1064. Fixed Point](search/1064.-fixed-point.md)
 * [240. Search a 2D Matrix II](search/240.-search-a-2d-matrix-ii.md)
 * [300. Longest Increasing Subsequence](search/300.-longest-increasing-subsequence.md)
+* [Permutation](search/permutation.md)
 
-## Depth First Search
+## Heap
 
-* [Permutation](depth-first-search/permutation.md)
+* [Overview](heap/overview.md)
 
 ## Games
 
@@ -135,8 +142,4 @@
 * [Overview](recursion/overview.md)
 * [509. Fabonacci Number](recursion/509.-fabonacci-number.md)
 * [50. Pow\(x, n\)](recursion/50.-pow-x-n.md)
-
-## Heap
-
-* [Overview](heap/overview.md)
 
