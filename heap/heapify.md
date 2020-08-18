@@ -12,7 +12,8 @@ public int[] heapify(int[] array) {
         return array;
     }
     
-    int start = array.length / 2 - 1;
+    int start = array.length / 2 - 1; // skip the leaf level
+    //OR start = array.length - 1;
     for (int i = start; i >= 0; i--) {
         siftDown(array, i);
     }

@@ -74,6 +74,14 @@
 * [297. Serialize and Deserialize Binary Tree](tree/serialize-and-deserialize-binary-tree.md)
 * [428. Serialize and Deserialize N-ary Tree](tree/428.-serialize-and-deserialize-n-ary-tree.md)
 
+## Heap
+
+* [Overview](heap/overview.md)
+* [Heap Offer Operation](heap/heap-offer-operation.md)
+* [Heap Update Operation](heap/heap-update-operation.md)
+* [Heapify](heap/heapify.md)
+* [Determine If Array Is Min Heap](heap/determine-if-array-is-min-heap.md)
+
 ## Sort
 
 * [Selection Sort](sort/selection-sort.md)
@@ -97,11 +105,6 @@
 * [240. Search a 2D Matrix II](search/240.-search-a-2d-matrix-ii.md)
 * [300. Longest Increasing Subsequence](search/300.-longest-increasing-subsequence.md)
 * [Permutation](search/permutation.md)
-
-## Heap
-
-* [Overview](heap/overview.md)
-* [Heapify](heap/heapify.md)
 
 ## Games
 
