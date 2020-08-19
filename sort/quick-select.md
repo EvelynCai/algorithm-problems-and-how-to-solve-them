@@ -1,4 +1,12 @@
+---
+description: Sort
+---
+
 # Quick Select
+
+### WHAT
+
+Principle: partition + recursion
 
 ```text
 public int findKthLargest (int[] nums, int k) {
