@@ -102,12 +102,13 @@
 * [DFS](search/dfs.md)
 * [78. Subsets](search/78.-subsets.md)
 * [22. Generate Parethesis](search/22.-generate-parethesis.md)
+* [46. Permutation](search/permutation.md)
+* [784. Letter Case Permutation](search/784.-letter-case-permutation.md)
 * [35. Search Insertion Position](search/35.-search-insertion-position.md)
 * [74. Search a 2D Matrix](search/74.-search-a-2d-matrix.md)
 * [1064. Fixed Point](search/1064.-fixed-point.md)
 * [240. Search a 2D Matrix II](search/240.-search-a-2d-matrix-ii.md)
 * [300. Longest Increasing Subsequence](search/300.-longest-increasing-subsequence.md)
-* [46. Permutation](search/permutation.md)
 
 ## Games
 
