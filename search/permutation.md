@@ -109,5 +109,7 @@ private void swap(int[] nums, int a, int b) {
 
 `Arrays.stream(array).boxed().collect(Collectors.toList());`
 
+4.2 When DFS result requires all the input elements to appear once, consider using swap\( \).
+
 
 
