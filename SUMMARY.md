@@ -107,7 +107,7 @@
 * [1064. Fixed Point](search/1064.-fixed-point.md)
 * [240. Search a 2D Matrix II](search/240.-search-a-2d-matrix-ii.md)
 * [300. Longest Increasing Subsequence](search/300.-longest-increasing-subsequence.md)
-* [Permutation](search/permutation.md)
+* [46. Permutation](search/permutation.md)
 
 ## Games
 

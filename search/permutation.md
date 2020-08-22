@@ -1,4 +1,8 @@
-# Permutation
+---
+description: DFS
+---
+
+# 46. Permutation
 
 ### 1. [Problem](https://leetcode.com/problems/permutations/)
 
@@ -99,7 +103,7 @@ private void swap(int[] nums, int a, int b) {
 }
 ```
 
-### 4. Notes
+### 4. Comment
 
 4.1 Convert int\[\] to List&lt;Integer&gt; :
 
