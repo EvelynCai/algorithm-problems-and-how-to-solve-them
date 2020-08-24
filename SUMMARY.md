@@ -31,6 +31,7 @@
 * [232. Implement Queues using Stacks](stack/232.-implement-queues-using-stacks.md)
 * [155. Min Stack](stack/155.-min-stack.md)
 * [641. Design Circular Deque](stack/641.-design-circular-deque.md)
+* [394. Decode String](stack/394.-decode-string.md)
 
 ## LINKED LIST <a id="list"></a>
 
