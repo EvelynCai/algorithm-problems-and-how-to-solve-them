@@ -74,6 +74,8 @@
 * [449. Serialize and Deserialize BST](tree/449.-serialize-and-deserialize-bst.md)
 * [297. Serialize and Deserialize Binary Tree](tree/serialize-and-deserialize-binary-tree.md)
 * [428. Serialize and Deserialize N-ary Tree](tree/428.-serialize-and-deserialize-n-ary-tree.md)
+* [Binary Search Tree](tree/binary-search-tree.md)
+* [Is Binary Search Tree](tree/is-binary-search-tree.md)
 
 ## Heap
 
