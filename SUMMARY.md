@@ -85,6 +85,12 @@
 * [Heap Update Operation](heap/heap-update-operation.md)
 * [Heapify](heap/heapify.md)
 * [Determine If Array Is Min Heap](heap/determine-if-array-is-min-heap.md)
+* [347. Top k Frequent Elements](heap/347.-top-k-frequent-elements.md)
+
+## Hash Table
+
+* [Overview](hash-table/overview.md)
+* [Top k Frequent Words](hash-table/top-k-frequent-words.md)
 
 ## Sort
 
