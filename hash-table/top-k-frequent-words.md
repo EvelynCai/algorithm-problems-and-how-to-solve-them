@@ -2,7 +2,7 @@
 description: HashTable
 ---
 
-# Top k Frequent Words
+# 692. Top k Frequent Words
 
 ### 1. [Description](https://leetcode.com/problems/top-k-frequent-words/)
 
@@ -42,7 +42,7 @@ Explanation: "the", "is", "sunny" and "day" are the four most frequent words,
 HashTable + Heap
 
 1. Use HashTable to count the word frequencies
-2. Use Heap to get the Top k Frequent Element
+2. Use Heap to get the 347. [Top k Frequent Element](https://app.gitbook.com/@alittlebit/s/algorithm-problems-and-how-to-solve-them/heap/347.-top-k-frequent-elements)
    1. customize the comparator of heap based on HashTable
    2. reuse any one of the solutions of Top k Frequent Element
 

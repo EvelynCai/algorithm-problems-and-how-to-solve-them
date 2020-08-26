@@ -90,7 +90,7 @@
 ## Hash Table
 
 * [Overview](hash-table/overview.md)
-* [Top k Frequent Words](hash-table/top-k-frequent-words.md)
+* [692. Top k Frequent Words](hash-table/top-k-frequent-words.md)
 
 ## Sort
 
