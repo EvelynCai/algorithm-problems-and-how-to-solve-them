@@ -90,6 +90,7 @@
 ## Hash Table
 
 * [Overview](hash-table/overview.md)
+* [Hashing](hash-table/hashing.md)
 * [692. Top k Frequent Words](hash-table/top-k-frequent-words.md)
 * [268. Missing Number](hash-table/268.-missing-number.md)
 
