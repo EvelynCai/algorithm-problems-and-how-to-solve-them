@@ -2,7 +2,14 @@
 
 Java solutions to convert among types:
 
-* ASCII code \(int\) to String
+* char digit -&gt; int
+
+```text
+char c = '7';
+int i = c - '0'; // i = 7
+```
+
+* ASCII code \(int\) -&gt; String
 
 ```text
 int ascii = 65;
