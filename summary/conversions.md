@@ -17,5 +17,11 @@ char c = (char) ascii;
 String s = Character.toString(c);
 ```
 
+* String -&gt; int
 
+```text
+String s = "123";
+int i1 = Integer.parseInt(s);
+Integer i2 = Integer.valueOf(s);
+```
 
