@@ -17,7 +17,7 @@ char c = (char) ascii;
 String s = Character.toString(c);
 ```
 
-* String -&gt; int
+* String -&gt; int/Integer
 
 ```text
 String s = "123";
