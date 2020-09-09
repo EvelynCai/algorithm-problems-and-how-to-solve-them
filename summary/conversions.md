@@ -25,3 +25,11 @@ int i1 = Integer.parseInt(s);
 Integer i2 = Integer.valueOf(s);
 ```
 
+* int -&gt; String
+
+```text
+int i = 123;
+String s1 = String.valueOf(i);
+String s2 = Integer.toString(i);
+```
+
