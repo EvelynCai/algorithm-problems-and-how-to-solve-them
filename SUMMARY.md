@@ -108,6 +108,7 @@
 * [HeapSort](sort/heapsort.md)
 * [Sort with 2 Stacks](sort/selection-sort-with-2-stacks.md)
 * [215. Kth Largest Element In Array](sort/215.-kth-largest-element-in-array.md)
+* [Wiggle Sort](sort/wiggle-sort.md)
 
 ## Search
 
