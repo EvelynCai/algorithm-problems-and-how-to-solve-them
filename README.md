@@ -1,16 +1,57 @@
-# Preface
+# PREFACE
 
-### Thanks for reading!
+Hello World! Thanks for reading my gitbook on algorithm problems and how to solve them. 
 
-This is a book of my thoughts on algorithm problems \(mostly from Leetcode\) and how to solve them. 
+## WHY
+It is a truth universally acknowledged that `Programs = Data Structures + Algorithms`. So solving algorithm problems is a common interview evaluation for software engineer candidates.
 
-When I was studying in Carnegie Mellon University, I took a course called _Data Structures for Application Programmers_. The instructor of the course, Terry, impressed me with his master of data structures, and his passion to dive deep into the details. It was at that time that I started to reflect on my attitude on algorithms problems as a candidate of software/application engineer.
+However, when I saw the thousands of problems on Online Judgement systems like Leetcode, I didn't have a clue of where to get started and how to deal with them. Fortunately, I took _Data Structures for Application Programmers_ at Carnegie Mellon University. The course instructor, Terry, impressed me with his knowledge in data structures, passion to dive deep, and empowerment of students to solve algorithm problems. 
 
-I was used to taking the problems, esp. Leetcode problems as tasks to accomplish so that I can pass job interviews. And of course, I didn't want to take a second look at them after seeing the "Accept". I practiced them because I held the belief that the candidates who're able to solve such problems during interviews get their desirable jobs. It turned out that I've messed up with the cause and result.
+It was at that time that I decided to note down how I approach the fundamental algorithm problems to become a more solid software engineer. For one thing, I want to summarize my thoughts and thus deepening my understanding. For another thing, I like sharing and giving back to the tech community. I'd be glad and honored if this hands-on gitbook makes a difference to anyone.
 
-It's not being able to write the bug-free solutions of Leetcode problems that results in offers, but the qualifications demonstrated in solving the Leetcode problems. Therefore, it's important to figure out why most companies consider algorithm problems as the most cost-effective way of talent acquisition. In other words, what interviewers expect in the following 30-45 minutes when he/she asks an algorithm problem.
+By the way, the name is actually originated from "Fantastic Beasts and Where to Find Them". Hope everyone could enjoy the fun here as in the wizarding world of Harry Potter.
 
-So I started to write this book. For one thing, I summarize my thoughts to deepen my knowledge and experience on data structures and algorithms, which is the fundamental skills of software development. For another thing, I inspire myself to reflect on not only "HOW", but also "WHY" so that I can connect these problems with the career development as software engineers.
+## WHAT
 
-It'll be a long list even though I'm just starting with basic data structures and algorithms for application engineers. Anyway, I'll make it gradually and review recursively. Hope it can help with my career which starts as a junior software engineer, and if possible, yours as well.
+I categorize the contents by basic data structures:
+* Array
+* LinkedList
+* Stack
+* Queue
+* Heap
+* Hash Table
+* Tree
+* Graph
 
+as well as algorithms:
+* Sort
+* Search
+* Recursion
+* Sliding Window
+* Dynamic Programming
+* Greedy Algorithm
+
+There are some categories for problems of certain types: 
+* String
+* Bit Manipulation
+* Math
+* Games
+* Design 
+
+The last section summarizes some tips and tricks in Java implementation of solutions.
+
+## HOW
+
+Each chapter starts with an overview.
+
+After the high-level understanding, I dive deep into each specific algorithm (mostly Leetcode) problem with details of:
+* problem description, examples, and assumptions
+* solutions, complexity analysis, and why
+* Java implementation 
+* comments, notes or extensions
+
+Reading each chapter and start with its overview is rather independent. Searching problem names also works if you want to be aware of one certain problem quickly.
+
+## WHO
+
+If you have any comment or advice, feel free to reach out to me at: https://www.linkedin.com/in/yuqingcai/
