@@ -112,6 +112,7 @@
 * [912. Sort an Array](sort/912.-sort-an-array.md)
 * [215. Kth Largest Element In Array](sort/215.-kth-largest-element-in-array.md)
 * [969. Pancake Sorting](sort/969.-pancake-sorting.md)
+* [360. Sort Transformed Array - TBD](sort/360.-sort-transformed-array-tbd.md)
 
 ## Search
 
