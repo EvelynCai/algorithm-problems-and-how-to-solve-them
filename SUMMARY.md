@@ -98,6 +98,7 @@
 
 ## Sort
 
+* [Insertion sort](sort/insertion-sort.md)
 * [Selection Sort](sort/selection-sort.md)
 * [Merge Sort](sort/merge-sort/README.md)
   * [88. Merge Sorted Array](sort/merge-sort/88.-merge-sorted-array.md)
