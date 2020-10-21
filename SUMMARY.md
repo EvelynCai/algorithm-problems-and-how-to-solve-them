@@ -12,7 +12,6 @@
 * [229. Majority Element II](array/229.-majority-element-ii.md)
 * [189. Rotate Array](array/189.-rotate-array.md)
 * [1089. Duplicate Zeros](array/1089.-duplicate-zeros.md)
-* [280. Wiggle Sort](array/280.-wiggle-sort.md)
 * [283. Move Zeroes](array/283.-move-zeroes.md)
 * [376. Wiggle Subsequence](array/376.-wiggle-subsequence.md)
 * [41. First Missing Positive](array/41.-first-missing-positive.md)
@@ -104,12 +103,15 @@
   * [88. Merge Sorted Array](sort/merge-sort/88.-merge-sorted-array.md)
 * [Quick Sort](sort/quick-sort/README.md)
   * [75. Sort Colors](sort/quick-sort/75.-sort-colors.md)
+* [912. Sort an Array](sort/912.-sort-an-array.md)
 * [Quick Select](sort/quick-select.md)
 * [HeapSort](sort/heapsort.md)
 * [Sort with 2 Stacks](sort/selection-sort-with-2-stacks.md)
 * [215. Kth Largest Element In Array](sort/215.-kth-largest-element-in-array.md)
 * [969. Pancake Sorting](sort/969.-pancake-sorting.md)
-* [Wiggle Sort](sort/wiggle-sort.md)
+* [Wiggle Sort](sort/wiggle-sort/README.md)
+  * [280. Wiggle Sort](sort/wiggle-sort/280.-wiggle-sort.md)
+  * [324. Wiggle Sort II](sort/wiggle-sort/324.-wiggle-sort-ii.md)
 
 ## Search
 

@@ -95,9 +95,9 @@ Practice:
 
 #### Merge Sorted Parts
 
-* Merge 2 Sorted Arrays \[[LeetCode 88](https://app.gitbook.com/@alittlebit/s/algorithm-problems-and-how-to-solve-them/array/88.-merge-sorted-array) & LintCode 6\]
+* Merge 2 Sorted Arrays \[[LeetCode 88](https://app.gitbook.com/@alittlebit/s/algorithm-problems-and-how-to-solve-them/array/88.-merge-sorted-array)\]
 * Merge K Sorted Arrays \[LintCode 486\]
-* Merge 2 Sorted Lists \[LeetCode 21 & LintCode 165\]
+* Merge 2 Sorted Lists \[LeetCode 21\]
 * Merge K Sorted Lists \[LintCode 104\]
 
 #### MergeSort 
