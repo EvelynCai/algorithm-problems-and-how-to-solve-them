@@ -102,9 +102,8 @@ Practice:
 
 #### MergeSort 
 
-* MergeSort 2 arrays to 1 array \[LintCode 464\]
-* MergeSort 2 arrays to 1 list \[LeetCode 912\]
-* MergeSort 2 list to 1 list [\[LeetCode 148\]](https://app.gitbook.com/@alittlebit/s/algorithm-problems-and-how-to-solve-them/list/148.-sort-list)
+* MergeSort 2 arrays to 1 array \[LeetCode 912\]
+* MergeSort 2 linked list to 1 linked list [\[LeetCode 148\]](https://app.gitbook.com/@alittlebit/s/algorithm-problems-and-how-to-solve-them/list/148.-sort-list)
 
 #### Reorder Strings
 
