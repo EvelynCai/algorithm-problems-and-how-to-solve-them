@@ -97,7 +97,7 @@ Practice:
 
 * Merge 2 Sorted Arrays \[[LeetCode 88](https://app.gitbook.com/@alittlebit/s/algorithm-problems-and-how-to-solve-them/array/88.-merge-sorted-array)\]
 * Merge K Sorted Arrays \[LintCode 486\]
-* Merge 2 Sorted Lists \[LeetCode 21\]
+* Merge 2 Sorted Lists \[[LeetCode 21](https://app.gitbook.com/@alittlebit/s/algorithm-problems-and-how-to-solve-them/list/21.-merge-two-sorted-lists)\]
 * Merge K Sorted Lists \[LintCode 104\]
 
 #### MergeSort 
