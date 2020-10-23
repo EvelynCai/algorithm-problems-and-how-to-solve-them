@@ -110,8 +110,8 @@
 * [Wiggle Sort](sort/wiggle-sort/README.md)
   * [280. Wiggle Sort](sort/wiggle-sort/280.-wiggle-sort.md)
   * [324. Wiggle Sort II](sort/wiggle-sort/324.-wiggle-sort-ii.md)
-* [912. Sort an Array](sort/912.-sort-an-array.md)
 * [215. Kth Largest Element In Array](sort/215.-kth-largest-element-in-array.md)
+* [912. Sort an Array](sort/912.-sort-an-array.md)
 * [969. Pancake Sorting](sort/969.-pancake-sorting.md)
 * [360. Sort Transformed Array - TBD](sort/360.-sort-transformed-array-tbd.md)
 
