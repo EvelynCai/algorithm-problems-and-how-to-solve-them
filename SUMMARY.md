@@ -119,6 +119,7 @@
 
 * [Overview](search/overview.md)
 * [Binary Search](search/binary-search.md)
+* [367. Valid Perfect Square](search/367.-valid-perfect-square.md)
 * [702. Search in a Sorted Array of Unknown Size](search/702.-search-in-a-sorted-array-of-unknown-size.md)
 * [BFS](search/bfs.md)
 * [785. Is Graph Bipartite?](search/785.-is-graph-bipartite.md)
