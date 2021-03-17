@@ -121,6 +121,7 @@
 * [Binary Search](search/binary-search/README.md)
   * [367. Valid Perfect Square](search/binary-search/367.-valid-perfect-square.md)
   * [702. Search in a Sorted Array of Unknown Size](search/binary-search/702.-search-in-a-sorted-array-of-unknown-size.md)
+  * [1060. Missing Element in Sorted Array](search/binary-search/1060.-missing-element-in-sorted-array.md)
 * [BFS](search/bfs/README.md)
   * [785. Is Graph Bipartite?](search/bfs/785.-is-graph-bipartite.md)
 * [DFS](search/dfs/README.md)
