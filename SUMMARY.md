@@ -123,6 +123,8 @@
   * [702. Search in a Sorted Array of Unknown Size](search/binary-search/702.-search-in-a-sorted-array-of-unknown-size.md)
   * [34. Find First and Last Position of Element in Sorted Array](search/binary-search/34.-find-first-and-last-position-of-element-in-sorted-array.md)
   * [658. Find K Closest Elements](search/binary-search/658.-find-k-closest-elements.md)
+  * [33. Search in Rotated Sorted Array](search/binary-search/33.-search-in-rotated-sorted-array.md)
+  * [81. Search in Rotated Sorted Array II](search/binary-search/81.-search-in-rotated-sorted-array-ii.md)
   * [367. Valid Perfect Square](search/binary-search/367.-valid-perfect-square.md)
   * [1060. Missing Element in Sorted Array](search/binary-search/1060.-missing-element-in-sorted-array.md)
 * [BFS](search/bfs/README.md)
