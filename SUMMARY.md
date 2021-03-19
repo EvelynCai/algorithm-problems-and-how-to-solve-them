@@ -51,6 +51,8 @@
 * [234. Palindrome Linked List](list/234.-palindrome-linked-list.md)
 * [86. Partition List](list/partition-linked-list.md)
 * [143. Reorder List](list/143.-reorder-list.md)
+* [369. Plus One Linked List](list/369.-plus-one-linked-list.md)
+* [1721. Swapping Nodes in a Linked List](list/1721.-swapping-nodes-in-a-linked-list.md)
 
 ## Tree
 
