@@ -95,6 +95,8 @@
 ## String
 
 * [Overview](string/overview.md)
+* [28. Implement strStr\(\)](string/28.-implement-strstr.md)
+* [1408. String Matching in an Array](string/1408.-string-matching-in-an-array.md)
 * [Decompress String](string/decompress-string.md)
 * [186. Reverse Words in a String II](string/186.-reverse-words-in-a-string-ii.md)
 * [151. Reverse Words in a String](string/151.-reverse-words-in-a-string.md)
