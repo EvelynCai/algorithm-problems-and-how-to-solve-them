@@ -101,6 +101,7 @@
 * [186. Reverse Words in a String II](string/186.-reverse-words-in-a-string-ii.md)
 * [151. Reverse Words in a String](string/151.-reverse-words-in-a-string.md)
 * [443. String Compression](string/443.-string-compression.md)
+* [340. Longest Substring with At Most K Distinct Characters](string/340.-longest-substring-with-at-most-k-distinct-characters.md)
 
 ## Sort
 
@@ -190,6 +191,7 @@
 * [Overview](recursion/overview.md)
 * [509. Fabonacci Number](recursion/509.-fabonacci-number.md)
 * [50. Pow\(x, n\)](recursion/50.-pow-x-n.md)
+* [51. N-Queens](recursion/51.-n-queens.md)
 
 ## Summary
 
