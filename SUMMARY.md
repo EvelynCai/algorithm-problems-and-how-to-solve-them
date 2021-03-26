@@ -191,6 +191,8 @@
 * [Overview](recursion/overview.md)
 * [509. Fabonacci Number](recursion/509.-fabonacci-number.md)
 * [50. Pow\(x, n\)](recursion/50.-pow-x-n.md)
+* [54. Spiral Matrix](recursion/54.-spiral-matrix.md)
+* [59. Spiral Matrix II](recursion/59.-spiral-matrix-ii.md)
 * [52. N-Queens II](recursion/52.-n-queens-ii.md)
 * [51. N-Queens](recursion/51.-n-queens.md)
 
