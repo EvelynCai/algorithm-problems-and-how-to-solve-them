@@ -151,6 +151,8 @@
   * [35. Search Insertion Position](search/dfs/35.-search-insertion-position.md)
   * [74. Search a 2D Matrix](search/dfs/74.-search-a-2d-matrix.md)
   * [240. Search a 2D Matrix II](search/dfs/240.-search-a-2d-matrix-ii.md)
+  * [695. Max Area of Island](search/dfs/695.-max-area-of-island.md)
+  * [547. Number of Provinces](search/dfs/547.-number-of-provinces.md)
   * [1064. Fixed Point](search/dfs/1064.-fixed-point.md)
 
 ## Games
